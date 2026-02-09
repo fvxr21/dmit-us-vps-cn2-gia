@@ -10,7 +10,8 @@ Looking for a reliable US-based VPS with premium China routes? DMIT's Los Angele
 
 DMIT operates four US data centers, each designed for specific use cases. The LAX.Pro series, in particular, delivers triple-network CN2 GIA routing with native American IP addresses. You can choose between metered bandwidth up to 2Gbps or unmetered connections at 200Mbps, depending on your needs.
 
-![DMIT VPS Dashboard Interface](image/40048022166687.webp)
+<img width="2731" height="1453" alt="image" src="https://github.com/user-attachments/assets/963c983a-3995-4414-8fe4-9e9cb6d187b2" />
+
 
 The platform accepts multiple payment methods, so whether you're paying with PayPal, Alipay, or credit cards, the checkout process stays smooth and hassle-free.
 
